@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+      <meta charset="UTF-8">
+	  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Intellectual Property in Web Design</title>
+          <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+       <nav>
+          <a href="index.html">Home</a> |
+        <a href="licenses.html">Creative Commons</a> |
+        <a href="resources.html">Legal Resources</a>
+    </nav>
+	
+	 <!--Image of the word Intellectual Property-->
+	 <img src="https://www.thebluediamondgallery.com/hand-held-card/images/intellectual-property.jpg" alt="Intellectual Picture">
+	
+	<!--This is the heading.-->
+    <h1> Understanding Copyright in Web Design</h1>
+	
+	<!--A paragraph explainging what is copyright-->
+	<p> There are so many things to think about when Copyright is a form of intellectual property law, that protects original works of authorship
+	including literary, drama, musical, and artistic works (including web design), poetry, novels,
+	 movies, songs, computer software, and architecture.<br>
+	 A website may contain text, artwork, photographs, music, videos, or other copyrightable content,
+    the website itself is not typically considered a copyrightable work.  You might be able to register
+	a website or a specific web page if it satisfies the statutory requirements for a compilation or collective work.
+
+    <!--A list of Copyrightable Content on a Website-->
+	<h2> <strong>A List of Copyrightable Content on a Website .</strong></h2>
+	  <ul>
+	    <li><strong> Website Content:</strong> hen trying to copyright website content the individual wouldn't request the whole website, but
+		     they would choose the components in the website that meets satisfactory to the requirements of copyright.
+			 For example: If you had a blog and you wanted to protect the text that is original you would request 
+			 copyrights for literature.
+			 Another example if a photographer posted pictures on the website they would request copyrights for images
+			 as visual art.<br></li>
+			 
+			 <li><strong>Website as a whole</strong><br>
+			 A website may qualify as a compilation or a collective work if there is sufficient creativity in the overall hierarchy 
+			of the website, such as the ways in which the pages are connected or linked with one another.
+			When you register a website as a compilation or a collective work, the registration may cover
+            both the website as a whole and the individual works that appear on the site—but only if the
+            claimant fully owns the copyrights in both the compilation and the underlying works at the time of registration.</li>
+			
+			<li><strong>HTML</strong><br>
+			HTML may be registered as a literary work only if it was created by a human being and it
+            contains a sufficient amount of creative expression.
+			</li>
+			
+			<li><strong> Author of a Website and Its Content</strong>
+			  When an individual creates a work he or she is considered the author of that work for
+             copyright purposes. If two or more authors create a work, they may be considered joint authors, and
+             their work may be considered a joint work.</li>
+			 
+			<footer>
+            
+<p>© 2025 Web Design Course | Always respect copyright laws.</p>
+             
+			 </footer>
+	    
+		</body> 
+		
+		 </html>
