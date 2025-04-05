@@ -1,0 +1,42 @@
+
+Style.css
+body {
+    font-family: verdana;
+    margin: 20px;
+    padding: 10px;
+    background-color:#b01a0c;
+	color: black;
+}
+
+h1 {font-family: times roman;
+    background-color:#45cc06;
+    color:#6a78c4 ;
+	font-size: 30px;
+	border-style: solid;
+	text-decoration: underline;
+}
+
+h2{font-family: cursive:
+   color:#411a73;
+   background-color:white;
+   font-size:25px;
+   border-style:groove;
+text-decoration: underline;}
+   
+   img{ width: 200px;
+      float:center;
+	  margin-top: 30px;
+   border-radius: 40px;}
+	  
+nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: blue;
+}
+
+nav a:hover {
+    text-decoration: underline;
+	color:#e831b4;
+	background-color:#1f161c;
+	border-style: dotted;
+	padding:10px;
