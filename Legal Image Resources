@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+      <meta charset="UTF-8">
+	  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Intellectual Property in Web Design</title>
+          <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+       <nav>
+          <a href="index.html">Home</a> 
+        <a href="licenses.html">Creative Commons</a> 
+        <a href="resources.html">Legal Resources</a>
+    </nav>
+	 <!--Title for Page-->
+	<h1> Legal Image Sources </h1>
+	<!--A descritpion of legal resources-->
+	<p>Legal image sources are resources of images that can be found and used online while respecting copyright laws,
+	   by focusing on images with license, permitting reuse, distribution, or those in the public domain.
+	   There are numerous of different websites that you can used to find images that are legal to reuse.</p>
+	   
+	   <!-- List and description of websites that provide free and legally usable images-->
+	   
+	   <h2>Websites that are free and have Legally usable Images</h2>
+	   <ul>
+	      <li> <Strong>Unsplash:</strong> This is a website that provides over 6 million free images. You can 
+           find high-resolution photos and illustrations from professional photographers and different other artists.
+           You can apply for job oppourtunities and submit your own images to the site.  They hand pick all images 
+           that are found on the website.</li>
+		   
+		   <li><strong>Pexels:</strong>Provides high quality and completely free stock photos licensed under the 
+		   Pexels license.  They help millions of designers, writers, artists, programmers and other creators to get access 
+		   to beautiful photos that they can use freely which empowers them to create amazing products, designs, stories, 
+		   websites, apps, art and other work.  All photos are nicely tagged, searchable and also easy to discover through 
+		   their discover pages.  They have hundreds of thousands free stock photos and every day new high resolution photos are added. 
+		   All photos are hand-picked from photos uploaded by users or sourced from free image websites. </li>
+		   
+		   <li><strong>Pixabay:</strong> This website delivers free stock photos, illustrations, vector graphics, videos, 
+		    music and sounds effects. Shared and enjoyed by one of the largest creator communities in the world.  Pixabay allows you 
+           to upload your material, build a creative portfolio, be selected in Pixabay curations, get hired, receive donations and 
+		   inspire millions. Pixabay allolws you to connect with other creators, receive feedback, ask or answer questions from the community.
+           They offer events, workshops,contests, and more for users of this webpage.		   
+           </li>
+		   <li><strong>Flickr Commons:</strong> This is a general photo-sharing platform, its "Commons" section focuses on images that
+		   are freely licensed, often under Creative Commons licenses, which allows for various levels of use, including commercial use, 
+		   with attribution. </li>
+		 
+		    <li><strong>Creative Commons Search:</strong> This is a search engine that allows you to find images, videos, and other media that are licensed 
+			under Creative Commons licenses. It grants permission for reuse, often with specific conditions like attribution or non-commercial use. 
+			</li>
+			
+			<li><strong>Wikimedia Commons:</strong>A storehouse of open-licensed and public domain images, videos, and other media, often used on Wikipedia, 
+			with images licensed under Creative Commons or in the public domain. </li>
+			
+			<li><strong>Public Domain Pictures</strong> This is a storehouse for free, high-quality public domain photos and images. </li>
+			
+		 </ul>
+		 
+		 </body>
+		 
+		 </html>
