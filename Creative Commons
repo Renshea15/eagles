@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+ <html lang="en">
+   <head>
+      <meta charset="UTF-8">
+	  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Intellectual Property in Web Design</title>
+          <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+       <nav>
+          <a href="index.html">Home</a> |
+        <a href="licenses.html">Creative Commons</a> |
+        <a href="resources.html">Legal Resources</a>
+    </nav>
+	
+	<!--This is the heading.-->
+
+    <h1> Creative Commons</h1>
+	<p> Creative Commons (CC) is an international nonprofit organization that empowers people to grow and sustain
+	    the thriving commons of shared knowledge and culture we need to address the world’s most pressing challenges 
+	    and create a brighter future for all.  Creative Commons strives to provide equitably  shared education
+		culture, and science to benefit humanity.  They  empowers individuals and communities around the world through 
+		technical, legal, and policy solutions that enable the sharing of education, culture, and science in the public interest.
+		There tools remove friction and barriers in sharing and accessing knowledge.
+		They Provide CC licenses and public domain tools that give every person and organization in the world a free, simple, 
+		and standardized way to grant copyright permissions for creative and academic works; ensure proper attribution; 
+		and enable others to copy, distribute, and make use of those works.</p>
+		
+		<!--List of different Creative Commons-->
+      <ul> Six different types of Creative Commons Licenses!
+	    <li><strong> CC BY:</strong> This allows reusers to distribute, remix, adapt, and build
+		 upon the material in any type of medium or format.  The user has togive credit 
+		 to the creator.  Ex: BY:credit to creator</li>
+		 
+		 <li><strong> CC BY-SA:</strong> This allows reusers to the same as CC BY except if you 
+		 modify the material you have to give crdit to to creator and adaptations must be shared
+         the same terms.  Ex: BY: credit must be given to the creator and.
+         SA: Adaptations must be shared under the same terms.	 
+		 
+		 <li><strong> CC BY-NC:</strong> This license provides all the abilitues of the CC By,
+		  but it is used for noncommercial purposes only and as long as the creator 
+		  is given credit. BY: credit must be given to the creator.
+          NC: Only noncommercial uses of the work are permitted. Ex:</li>
+		  
+		  <li><strong>CC BY-NC-SA:</strong>This license allows the reusers to distribute 
+		   remix, adapt, and build upon for noncommercial purposes only.  Credit must be given to creator, there 
+		   must be acknowledgement of adaption, and it must be noncommercial.
+		   Ex:BY: credit must be given to the creator.
+           NC: Only noncommercial uses of the work are permitted.
+           SA: Adaptations must be shared under the same terms.</li>
+		   
+		   <li><strong>CC BY-ND</strong>This license allowes reusers to copy and distribute the
+		    material or format in unadapated form only, the creator must be given credit.  This license can be used 
+			for commerical use.  EX: BY: credit must be given to the creator.
+            ND: No derivatives or adaptations of the work are permitted. </li>
+			
+			<li><strong>CC BY-NC-ND:</strong>This license allows reusers to copy and distribute the material in any 
+			medium or format in unadapted form only, for noncommercial purposes only.  Credit must be given to the creator 
+			and other attributes.  Ex:BY: credit must be given to the creator.
+            NC: Only noncommercial uses of the work are permitted.
+            ND: No derivatives or adaptations of the work are permitted.</li>
+	  </ul>	
+
+      <1--3 Different typs of Copyright Materials-->
+	  <h2><em>3 Different Types of Copyright Material</em></h2>
+	  <p> There are three different types of copyright material which refers to how copyright material can be used.
+	   Public domain, Fair use act, and License content gives three different ways to obtain material from a creator.  
+        Listed below are the the different ways they are used to be able to share peoples work.	   </p>
+	  
+	  <p><strong>Public domain</strong> allows authors to keep and manage their copyright on terms they choose.
+        It enable authors and copyright owners who want to dedicate their works to the worldwide public domain to do so, 
+		and facilitate the labeling and discovery of works that are already free of known copyright restrictions.	
+		
+		<strong>Fair Use</srong>gives users the right to use copyrighted material without permission under 
+		 certain circumstances.  Some purposes are: criticism, comment, news reporting, teaching, scholarship, or research.
+		 
+		 <strong>License Content</strong>is an agreement between the creator and the website owner for the use of the material.
+		  It would outline the terms and conditions of the material that will be used. 
+		  The agreement would include items such as: Payment, duration, scope of use, restriction, and attributions.</p>
+		  
+		  
+		  </body>
+		  
+		  </html>
